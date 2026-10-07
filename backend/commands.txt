@@ -1,0 +1,10 @@
+Entrar a base de datos en postgreSQL
+
+1.- .\psql -U postgres
+2.- \c ai_interviews_db
+
+Mostrar tablas dentro de la base de datos 
+\dt
+
+Mostrar una tabla en especifico 
+\d users
